@@ -29,3 +29,29 @@ nav a {
     text-decoration: none;
     margin-right: 20px;
 }
+
+#about {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #f3e5d0;
+}
+
+#about h1 {
+    font-size: 36px;
+    color: #8b2e2e;
+    margin-bottom: 15px;
+}
+
+#about p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #8b2e2e;
+    color: white;
+    text-decoration: none;
+    padding: 12px 30px;
+    border-radius: 6px;
+}
